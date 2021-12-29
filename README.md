@@ -17,8 +17,8 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:
 ```
 Program to find the LU Decomposition of a matrix.
-Developed by: SV ROHITHKUMAR
-RegisterNumber: 21005656
+Developed by: S JAVITH FARKHAN
+RegisterNumber: 21004303
 ```
 ```
 1.Use LU Decomposition to find L and U matrix
